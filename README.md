@@ -2,9 +2,9 @@
 # Music Genre Classification Project
 
 ## Contribution
-Adit Dahiya (U2323943D)   
-Advik Dahiya (U2323843G)  
-Dhairya Kakkar (U2323283F)  
+Adit Dahiya    
+Advik Dahiya   
+Dhairya Kakkar    
 Everyone contributed equally
 
 ## Motivation
@@ -47,8 +47,9 @@ The Gradient Boosting Classifier achieved the highest accuracy at 57% which show
 Our project addresses the challenge of music genre classification, providing insights into the potential of various machine-learning techniques and the potency for further enhancements.
 
 ## References
-https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre https://medium.com/analytics-vidhya/machine-learning-classification-algorithms-with-codes-5a8af4491fcb 
-https://www.geeksforgeeks.org/ 
+https://www.kaggle.com/datasets/vicsuperman/prediction-of-music-genre  
+https://medium.com/analytics-vidhya/machine-learning-classification-algorithms-with-codes-5a8af4491fcb   
+https://www.geeksforgeeks.org/   
 https://stackoverflow.com/   
 NTU content 
 
