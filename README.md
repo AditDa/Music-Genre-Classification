@@ -2,9 +2,9 @@
 # Music Genre Classification Project
 
 ## Contribution
-Adit Dahiya (U2323943D) 
-Advik Dahiya (U2323843G)
-Dhairya Kakkar (U2323283F)
+Adit Dahiya (U2323943D)   
+Advik Dahiya (U2323843G)  
+Dhairya Kakkar (U2323283F)  
 Everyone contributed equally
 
 ## Motivation
@@ -44,5 +44,5 @@ We printed out the confusion matrix for each model to visually interpret the acc
 The Gradient Boosting Classifier achieved the highest accuracy at 57% which shows a moderate success in genre classification. More enhancements are required for a larger usage and applicability in the future and music platforms. An interesting fact is that even basic features like tempo, energy, loudness etc. can moderately predict music genres, laying a starting point for developing more robust and advanced systems.
 
 ## Conclusion
-Our project addresses the challenge of music genre classification, providing insights into the potential of various machine-learning techniques and the potency for further enhancements. Thank You
+Our project addresses the challenge of music genre classification, providing insights into the potential of various machine-learning techniques and the potency for further enhancements.
 
